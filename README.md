@@ -131,9 +131,9 @@ All softwares are free to use for commercial and educational purposes with prope
 
 ## Authors
 
-Harshit Raj - harshitraj@ufl.edu
-
 Jay Nibhanupudy - jaynibhanupudy@ufl.edu
+
+Harshit Raj - harshitraj@ufl.edu
 
 Teja Naga Sai Rupesh Yarramneedi - yarramneedi.t@ufl.edu
 
