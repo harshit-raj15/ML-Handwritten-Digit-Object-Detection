@@ -10,7 +10,7 @@
   <p align="center">
     Model designed for handwritten digit detection
     <br />
-    <a href="https://github.com/UF-EEL5840-EEE4773-Fall-2024/final-project-code-report-overfitting"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/UF-EEL5840-EEE4773-Fall-2024/final-project-code-report-overfitting/blob/main/Final%20Report-%20Overfitting.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#usage">View Demo</a>
